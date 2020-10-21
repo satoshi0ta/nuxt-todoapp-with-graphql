@@ -1,5 +1,17 @@
 # nuxt-todoapp-with-graphql
 
+## [API-Server](https://github.com/dev-sota/ror-with-graphql-example) Setup
+
+
+```bash
+git clone https://github.com/dev-sota/ror-with-graphql-example.git
+cd ror-with-graphql-example
+bundle i
+bundle exec rails db:create db:migrate db:seed 
+bundle exec rails s
+```
+
+
 ## Build Setup
 
 ```bash
